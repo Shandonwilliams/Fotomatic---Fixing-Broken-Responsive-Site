@@ -1,0 +1,2 @@
+An attempt at creating a responsive website.
+The brief and initial website was taken from Codecademy. From that, I tried to make the website responsive using media queries, flexbox and relative measurements
